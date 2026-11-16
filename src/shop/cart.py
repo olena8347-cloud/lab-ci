@@ -1,6 +1,5 @@
-import os 
-from dataclasses import dataclass 
-from typing import Protocol 
+from dataclasses import dataclass
+from typing import Protocol
 
 
 class RateProvider(Protocol):
